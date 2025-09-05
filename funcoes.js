@@ -62,3 +62,11 @@ async function processarAsync(valor, callback){
     
 }
 
+
+
+
+
+
+
+
+
